@@ -1,0 +1,7 @@
+* Lista de comandos importantes para o git bash:
+
+- git init (inicia o git)
+- git clone (clona um repositorio)
+- git list (lista as pastas de um repositório)
+- git commit (comita um repositório)
+- git config (atualiza as informaçõe stipo email e nickname)
